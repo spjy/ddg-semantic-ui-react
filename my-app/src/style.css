@@ -1,0 +1,40 @@
+.grey {
+  background-color: rgba(247, 247, 247) !important;
+}
+
+.padding {
+  padding: 0px 50px;
+}
+
+.categories {
+  padding: 20px;
+}
+
+.black {
+  color: white;
+  background-color: #333 !important;
+}
+
+.padding-footer {
+  padding: 20px 50px !important;
+}
+
+.title-footer {
+  border-bottom: white solid 2px;
+  margin-bottom: 30px;
+}
+
+.check.icon {
+  color: lightgreen;
+}
+
+.privacy-image {
+  margin-top: -120px;
+}
+
+.information {
+  background-color: #58B792;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
