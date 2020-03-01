@@ -119,14 +119,6 @@ class Information extends React.Component {
   }
 }
 
-class PersonalInformationImage extends React.Component {
-  render() {
-    return (
-      <Image centered src="https://duckduckgo.com/assets/onboarding/bathroomguy/1-monster-v2--pre-animation.svg" />
-    )
-  }
-}
-
 class MainSection extends React.Component {
   render() {
     return (
